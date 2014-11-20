@@ -1,5 +1,0 @@
-#!/bin/sh
-### lolcommits hook (begin) ###
-export PATH="/usr/bin:/usr/local/bin:$PATH"
-python ~/append-lols/.git/hooks/append-lols.py
-###  lolcommits hook (end)  ###
